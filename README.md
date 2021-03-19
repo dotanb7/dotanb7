@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dotanb7
+- 👀 I’m still trying to decide what is my real passion - it's hard since mechanics, electronics and software all amaze me
+- 🌱 I’m currently learning Computer Science
